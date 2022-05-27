@@ -10,3 +10,15 @@
 .container{
   padding: 25px;
 }
+
+.navigator{
+  border-style: outset;
+  text-align: center;
+  border: 2px, blue;
+  margin: 10px;
+  padding: 5px;
+}
+
+.history {
+  
+}
