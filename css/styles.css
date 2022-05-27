@@ -1,6 +1,7 @@
 .heading {
   font-size: 450%;
   text-align: center;
+  color:orangered;
 }
 
 .subhead {
@@ -26,4 +27,5 @@
 
 .highlight{
   font-weight: bold;
+  color:orangered;
 }
