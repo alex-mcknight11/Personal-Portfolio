@@ -54,11 +54,11 @@
 @keyframes slidein {
   from {
     margin-left: 0%;
-    width: 0%
+    width: 100%
   }
 
   to {
     margin-right: 100%;
-    width: 0%;
+    width: 100%;
   }
 }
