@@ -12,7 +12,7 @@
 
 ## Description
 
-_A portfolio used as an independent project from Epicodus, includes links to previous work, as well as an about me page with history and information._
+_A portfolio used as an independent project from Epicodus, includes links to previous work, as well as an about me page with history and information. You may be greated by a special friend as you click to learn more about me. :raccoon:_
 
 ## Setup/Installation Requirements
 
