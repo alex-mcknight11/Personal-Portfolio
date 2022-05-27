@@ -50,3 +50,15 @@
   animation-name: slidein;
   margin-left: 40%;
 }
+
+@keyframes slidein {
+  from {
+    margin-left: 0%;
+    width: 0%
+  }
+
+  to {
+    margin-right: 100%;
+    width: 0%;
+  }
+}
