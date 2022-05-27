@@ -44,3 +44,9 @@
 .projects{
   color: black;
 }
+
+.animation{
+  animation-duration: 7s;
+  animation-name: slidein;
+  margin-left: 40%;
+}
